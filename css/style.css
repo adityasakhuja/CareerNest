@@ -73,3 +73,14 @@ body {
 .p .right {
   text-align: right;
 }
+
+/* Extensions to Bootstrap */
+
+.btn-xlarge {
+    padding: 28px 38px;
+    font-size: 32px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
