@@ -25,19 +25,6 @@ body {
   font-size: 24px;
   line-height: 1.25;
 }
-.jumbotron .btn {
-  font-size: 21px;
-  padding: 14px 24px;
-}
-
-/* Supporting marketing content */
-.marketing {
-  margin: 60px 0;
-}
-.marketing p + h4 {
- margin-top: 28px;
-}
-
 
 /* Customize the navbar links to be fill the entire space of the .navbar */
 .navbar .navbar-inner {
@@ -77,10 +64,10 @@ body {
 /* Extensions to Bootstrap */
 
 .btn-xlarge {
-    padding: 28px 38px;
-    font-size: 32px;
-    line-height: normal;
-    -webkit-border-radius: 8px;
-       -moz-border-radius: 8px;
-            border-radius: 8px;
+  padding: 28px 38px;
+  font-size: 32px;
+  line-height: normal;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
 }
